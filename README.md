@@ -7,7 +7,7 @@ Have you been looking for a way to break into the web development industry as a 
 |Hour|Topic
 |---|---|
 |10:00	|Web Development Keynote
-|10:30	|[Part 1. HTML: Programming the Web](../Part%201.%20HTML)
+|10:30	|[Part 1. HTML: Programming the Web](../tree/master/Part%201.%20HTML)
 |11:00  |[Part 2. CSS: Selectors, Styling, and Display](../Part%202.%20CSS%20%26%20CSS3)
 |12:00	|Lunch + Survey
 |12:30	|[Part 3. Javascript](../Part%203.%20Javascript)
@@ -25,7 +25,7 @@ This workshop can be completed online however we do suggest all participants use
 
 ---
 ## Course modules
-* [Part 1. HTML: Programming the Web](../Part%201.%20HTML)
+* [Part 1. HTML: Programming the Web](../tree/master/Part%201.%20HTML)
 * [Part 2. CSS: Selectors, Styling, and Display](../Part%202.%20CSS%20%26%20CSS3)
 * [Part 3. Javascript](../Part%203.%20Javascript)
 * [Part 4. JQuery + APIs](../Part%204.%20JQuery%20%2B%20APIs)
