@@ -8,7 +8,7 @@
 6. [Forms in your Webpages](./forms.md)
 7. [Optional: Tips for Success with HTML](./tips_for_html.md)
 
-#### NEXT: [Part 2. CSS: Selectors, Styling, and Display](Part%202.%20CSS%20%26%20CSS3)
+#### NEXT: [Part 2. CSS: Selectors, Styling, and Display](../Part%202.%20CSS%20%26%20CSS3)
 
 
 

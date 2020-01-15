@@ -1,9 +1,9 @@
 # Part 5. Capstone + Deployment with Azure
 
-1. [Start Here: Capston Project](./capstone.md)
+1. [Start Here: Capstone Project](./capstone.md)
 2. [Deployment with Azure](./deploy.md)
 
-#### NEXT: [Part 5. Capstone + Deployment with Azure](Part%205.%20%20Capstone%20%2B%20Web%20Publishing)
+#### Congratulations! You have completed this workshop! Well Done!
 
 
 

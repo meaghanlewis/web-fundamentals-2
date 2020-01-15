@@ -7,7 +7,7 @@
 5. [The DOM](./the_dom.md)
 
 
-#### NEXT: [Part 4. JQuery + APIs](Part%204.%20JQuery%20%2B%20APIs)
+#### NEXT: [Part 4. JQuery + APIs](../Part%204.%20JQuery%20%2B%20APIs)
 
 ---
 ## Course modules

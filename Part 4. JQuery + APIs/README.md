@@ -9,7 +9,7 @@
 7. [APIs](./api.md)
 8. [Servicable URLS](./serviceable_urls.md)
 
-#### NEXT: [Part 5. Capstone + Deployment with Azure](Part%205.%20%20Capstone%20%2B%20Web%20Publishing)
+#### NEXT: [Part 5. Capstone + Deployment with Azure](../Part%205.%20%20Capstone%20%2B%20Web%20Publishing)
 
 
 

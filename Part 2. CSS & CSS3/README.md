@@ -12,7 +12,7 @@
 11. [Activity: Portfolio Activity](./portfolio_activity.md)
 
 
-#### NEXT: [Part 3. Javascript](Part%203.%20Javascript)
+#### NEXT: [Part 3. Javascript](../Part%203.%20Javascript)
 
 
 ---
