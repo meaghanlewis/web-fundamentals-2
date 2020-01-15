@@ -17,11 +17,11 @@ If you don't have an Azure subscription, [sign up now for a free account](https:
 ## Sign in to Azure
 Once you've installed the Azure extension, sign into your Azure account by navigating to the Azure explorer, select Sign in to Azure, and follow the prompts. (If you have multiple Azure extensions installed, select the one for the area in which you're working, such as App Service, Functions, etc.)
 
-![Azure Sign-In](../images/azure-sign-in.png)
+![Azure Sign-In](images/azure-sign-in.png)
 
 After signing in, verify that the email address of your Azure account (or "Signed In") appears in the Status Bar and your subscription(s) appears in the Azure explorer:
 
-![Azure Sign-In 2](../images/azure-subscription-view.png)
+![Azure Sign-In 2](images/azure-subscription-view.png)
 
 #### Now you have a location where you can publish all of your online work.
 
@@ -30,7 +30,7 @@ After signing in, verify that the email address of your Azure account (or "Signe
 
 2. In VS Code, select the Azure logo to open the Azure explorer. Under Azure Storage, right-click on your Azure subscription and choose Create Storage Account:
 
-![Create Storage Account Image](../images/create-storage-account.png)
+![Create Storage Account Image](images/create-storage-account.png)
 
 3. At the prompt, "Enter the name of the new storage account", enter a globally unique name for your Storage Account and press Enter. Valid characters for an app name are 'a-z' and '0-9'.
 
@@ -42,19 +42,19 @@ After signing in, verify that the email address of your Azure account (or "Signe
 
 7. Once the Storage account is complete, right-click that account and select Configure Static Website. Enabling static website hosting means that Azure Storage automatically serves your index document and any other static assets.
 
-![configure static page](../images/configure-static-website.png)
+![configure static page](images/configure-static-website.png)
 
 8. When prompted, enter index.html for both the index document name and the 404 error document name. We use index.html for our error page unless we have created a custom 404 page.
 
 9. Select the Files explorer, right-click on the folder that has your web files in it and choose **Deploy to Static Website**:
 
-![Deploy Static Image](../images/deploy-build-angular.png)
+![Deploy Static Image](images/deploy-build-angular.png)
 
 10. When prompted, choose the Storage account that you created previously.
 
 11. When deployment is complete, a message appears with a Browse to website button. Select that button to open the primary endpoint of the deployed app code.
 
-![Endpoint Image](../images/deployment-complete.png)
+![Endpoint Image](images/deployment-complete.png)
 
 Navigate to the web address that the extension creates and you're all set! You just published your website.
 
