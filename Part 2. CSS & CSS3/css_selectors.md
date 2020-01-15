@@ -57,4 +57,4 @@ c represents the number of tag names
 ```
 Combining these into a number will give you the actual weight. This means that  li #list will have the same weight as ul #list. This is probably one of the most confusing things about the cascade scheme, but it’s actually simpler than you might think: **it’s all about counting**.
 
-#### Next: [Styling Elements](./styling_elements.md)
+#### Next: [Activity: Dojo Diner](./dojo-diner.md)

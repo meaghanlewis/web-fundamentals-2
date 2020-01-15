@@ -2,7 +2,7 @@
 
 1. [Start Here: CSS Overview](./introduction_to_css.md)
 2. [CSS Selectors](./css_selectors.md)
-3. [Activity: Dojo Diner](./dojo_diner.md)
+3. [Activity: Dojo Diner](./dojo-diner.md)
 4. [Styling Elements](./styling_elements.md)
 5. [Styling Text](./styling_text.md)
 6. [Using the Inspect Tool](./inspect_element.md)

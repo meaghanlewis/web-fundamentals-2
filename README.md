@@ -16,11 +16,8 @@ Have you been looking for a way to break into the web development industry as a 
 |2:00	|[Part 6. Capstone: Pokedex](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%206.%20Capstone)
 |3:45	|Wrap-up Next Steps
 
-## Learning Pathways:		
-1. https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/		
-2. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/		
-3. https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/		
-4. https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/		
+## START HERE: [Part 1. HTML: Programming the Web](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%201.%20HTML)
+
 
 ## Workshop requirements
 
@@ -35,3 +32,10 @@ This workshop can be completed online however we do suggest all participants use
 * [Part 4. JQuery + APIs](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%204.%20JQuery%20%2B%20APIs)
 * [Part 5. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%205.%20%20Web%20Publishing)
 * [Part 6. Capstone: Pokedex](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%206.%20Capstone)
+---
+## Learning Pathways:
+If you'd like to explore more topics related to Azure and Web Development check out these other Microsoft 	
+* [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)	
+* [Deploy a Website with Azure Virtual Machines](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-virtual-machines/)	
+* [C#: First Steps](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)	
+* [Deploy a website with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)		
