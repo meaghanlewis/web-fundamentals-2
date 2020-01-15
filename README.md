@@ -30,8 +30,9 @@ This workshop can be completed online however we do suggest all participants use
 * [Part 2. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%202.%20CSS%20%26%20CSS3)
 * [Part 3. Javascript](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%203.%20Javascript)
 * [Part 4. JQuery + APIs](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%204.%20JQuery%20%2B%20APIs)
-* [Part 5. Deployment with Azure](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%205.%20%20Web%20Publishing)
-* [Part 6. Capstone: Pokedex](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%206.%20Capstone)
+* [Part 5. Capstone + Deployment with Azure]()
+
+
 ---
 ## Learning Pathways:
 If you'd like to explore more topics related to Azure and Web Development check out these other Microsoft 	
