@@ -15,7 +15,7 @@ Note: These images are hot-linked and may not work. Utilize the api v2 to find a
 
 Add a click function to each of the Pokemon you rendered in the last PokeAPI assignment that will show the side panel pictured above.
 
-![Pokedex Image](images/ajax-pikachu.png)
+![Pokedex Image](../images/ajax-pikachu.png)
 
 How do you know which Pokemon was clicked? Maybe we can give each Pokemon a unique id that corresponds with their number in the URL?
 
