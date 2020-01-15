@@ -15,4 +15,4 @@ In previous sections, we showed how you could adjust image's width and height by
 
 As you have now learned css, please do NOT add width or height directly in the image tag but have the css file specify these attributes.  Similarly, any html tag you may have used in the past (such as <b> or <u>), please stop using these html tags entirely as whether something is bolded or underlined should be defined in the CSS and never in the HTML.
 
-#### NEXT: [Part 3. Javascript](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%203.%20Javascript)
+#### NEXT: [Part 3. Javascript](../Part%203.%20Javascript)

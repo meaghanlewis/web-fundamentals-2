@@ -1,13 +1,11 @@
-# Part 3. CSS & CSS3
+# Part 5. Capstone + Deployment with Azure
 
-1. [Start Here: Javascript Overview](./javascript_overview.md)
-2. [Javascript Basic Functions](./basic_functions_1.md)
-3. [Javascript Foundations 1](./javascript_foundations_1.md)
-4. [Javascript Objects](./javascript_objects.md)
-5. [The DOM](./the_dom.md)
+1. [Start Here: Capston Project](./capstone.md)
+2. [Deployment with Azure](./deploy.md)
+
+#### NEXT: [Part 5. Capstone + Deployment with Azure](../Part%205.%20%20Capstone%20%2B%20Web%20Publishing)
 
 
-#### NEXT: [Part 4. JQuery + APIs](../Part%204.%20JQuery%20%2B%20APIs)
 
 ---
 ## Course modules

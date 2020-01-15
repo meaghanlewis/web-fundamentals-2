@@ -101,4 +101,4 @@ Good Code
 <img id="logo" src="images/logo.png" alt="My First Website's logo">
 ```
 
-#### NEXT: [Part 2. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%202.%20CSS%20%26%20CSS3)
+#### NEXT: [Part 2. CSS: Selectors, Styling, and Display](../Part%202.%20CSS%20%26%20CSS3)

@@ -26,5 +26,5 @@ Need a place to work on this? You can do this activity here in this [HTML enviro
 
 [When you've completed this assignment, check out this important tips!](./tips_for_html.md)
 
-#### NEXT: [Part 2. CSS: Selectors, Styling, and Display](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%202.%20CSS%20%26%20CSS3)
+#### NEXT: [Part 2. CSS: Selectors, Styling, and Display](../Part%202.%20CSS%20%26%20CSS3)
 

@@ -54,6 +54,6 @@ This is exactly where _front-end frameworks or libraries_ come in handy. By laye
 
 
 
-#### NEXT: [Part 4. JQuery + APIs](https://github.com/daniel-dc-cd/web-fundamentals-2/tree/master/Part%204.%20JQuery%20%2B%20APIs)
+#### NEXT: [Part 4. JQuery + APIs](../Part%204.%20JQuery%20%2B%20APIs)
 
 
