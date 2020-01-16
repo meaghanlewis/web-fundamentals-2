@@ -13,7 +13,7 @@ Note: These images are hot-linked and may not work. Utilize the api v2 to find a
 
 ### Part 2.
 
-Add a click function to each of the Pokemon you rendered in the last PokeAPI assignment that will show the side panel pictured above.
+Add a click function to each of the Pokemon you rendered in the last PokeAPI assignment that will show the side panel pictured below.
 
 ![Pokedex Image](../images/ajax-pikachu.png)
 
