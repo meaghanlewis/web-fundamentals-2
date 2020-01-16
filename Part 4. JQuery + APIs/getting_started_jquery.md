@@ -82,11 +82,5 @@ Now, when you click a button on your webpage, you should see a pop up with the m
 2. **Add an event listener: How do you want this event to be triggered?**
 3. **Write the code on what you want to happen when the event is triggered.**
 
-# What is jQuery?
-jQuery is a JavaScript library. What this means for us is that it allows every browser to read JavaScript code. In the same manner, browser compatibility is a big issue when working on the front-end. This means that the jQuery code you write is suited for use by all browsers without change. JavaScript is interpreted by your browser, and unfortunately, Google Chrome interprets JavaScript differently than Safari, Mozilla and Internet Explorer do.  We don't want to have to write different versions of our code for different browsers, so cross-browser compatibility is important. All of the jQuery's functions work the same way regardless of which browser the user is running.
-
-JQuery also converts what would have been a long block of code into just a few lines. As a developer, you should always practice the DRY method (Don't Repeat Yourself) which a group of developers discovered when they wrote the same lines of code over and over again (and it was a good amount of code too!). So, why not cut down many lines of code by making a library, and also by simplifying it for everyone? It sounds like a great idea!
-
-
 
 #### NEXT: [Getters and Setters](./getters_setters.md)
