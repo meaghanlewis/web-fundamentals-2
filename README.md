@@ -1,6 +1,6 @@
 # Welcome to the Microsoft Web Development Fundamentals 2 Workshop
 ## Introduction:
-Have you been looking for a way to break into the web development industry as a web developer, designer, or web programmer? The Web Development Fundamentals 1 Workshop is designed to quickly introduce you to current web development technology and provide you with a solid foundation in HTML and CSS. You'll also learn exactly how the internet works; about clients, servers, protocols and the next steps you need to take you to the next level on the web. During the workshop you will create a static HTML web page that can be used as your first online portfolio.
+Have you been looking for a way to break into the web development industry as a web developer, designer, or web programmer? The Web Development Fundamentals 2 Workshop is designed to quickly introduce you to current web development technology and provide you with a solid foundation in HTML and CSS. You'll also learn exactly how the internet works; about clients, servers, protocols and the next steps you need to take you to the next level on the web. During the workshop you will create a static HTML web page that can be used as your first online portfolio.
 
 ## Schedule:
 

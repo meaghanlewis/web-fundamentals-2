@@ -1,9 +1,9 @@
 # Getting Started
 
-To get started with jQuery, go to [google's hosted jQuery library](https://developers.google.com/speed/libraries/#libraries) and copy the link from there. This is the address we will tell our browser to import the library from. Next, in the **`<head>`** portion of your HTML document, include the link you just copied:
+To get started with jQuery, go to [Microsoft's jQuery Releases on the CDN](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview#jQuery_Releases_on_the_CDN_0) and copy the link from there. This is the address we will tell our browser to import the library from. Next, in the **`<head>`** portion of your HTML document, include the link you just copied:
 
-`<script src= 'http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
-`
+`<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js"></script>`
+
 Notice that what we are doing is adding a **'source' attribute** to our JavaScript. We are effectively telling our page: "take all the code hosted at this URL and allow me to use it on this page." **Also, notice we added an http:// in front of the URL. You must do this!!!**
 
 Next, open a new **`<script>`** tag and type the following:

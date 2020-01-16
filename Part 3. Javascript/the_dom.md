@@ -8,7 +8,9 @@ You can think of the document as a big container, inside of which sits informati
 
 Each specific element also has a [wealth of methods](http://www.w3schools.com/jsref/dom_obj_all.asp) to exploit.
 
-Open up Chrome and a JavaScript console. Let's play with the DOM a little bit:
+Open up your browser and right click on a webpage and click "Inspect", from there you should see a tab labeled, "console." Ask your instructor for guidance if you can't find the browser console for Javascript. 
+
+Once you're ready, let's play with the DOM a little bit:
 
 Try this in the console:
 
@@ -54,6 +56,6 @@ This is exactly where _front-end frameworks or libraries_ come in handy. By laye
 
 
 
-#### NEXT: [Part 4. JQuery + APIs](Part%204.%20JQuery%20%2B%20APIs)
+#### NEXT: [Part 4. JQuery + APIs](../Part%204.%20JQuery%20%2B%20APIs)
 
 
