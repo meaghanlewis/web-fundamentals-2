@@ -8,11 +8,10 @@ Even though every API is designed with a set of governing principles in mind, ev
 
 APIs are usually web URLs where you can pass information either in the URL or by posting a form to the URL and the server returns JSON (or other similar data formats). You will create your own API in later chapters but in essence, that is all you need to have to build an API: if a URL takes some data and outputs JSON (or other similar formats), you have created an API. Take a quick look at some of the APIs listed below. 
 
+* LinkedIn API: https://developer.linkedin.com/docs/rest-api#
 * Open Weather Map: http://openweathermap.org/api
 * GitHub API: https://developer.github.com/v3/
-* Google Maps Directions API: https://developers.google.com/maps/documentation/directions/
 * Twitter API: https://dev.twitter.com/rest/public
-* Flickr API: https://www.flickr.com/services/api/
 
 Although you have to interact with each API differently, notice how they are all collections of URLs that you can interact with as long as you follow the protocols that the developer has specified in the documentation.
 
@@ -23,4 +22,4 @@ Cross development (Managers/Developers): APIs allow experts/developers of differ
 
 Wider reach of the audience (Marketers): APIs allows marketers to market their product/services to a wider audience of developers. Then, these developers can build applications that use the API to reach an even wider audience of consumers and developers. For companies like LinkedIn, Microsoft, Twitter, and Google, they wanted to reach out to a wider audience so they made it easy for developers to use their services to build their brand even more.
 
-#### NEXT: [Serviceable URLs](servicable_urls.md)
+#### NEXT: [Serviceable URLs](./serviceable_urls.md)

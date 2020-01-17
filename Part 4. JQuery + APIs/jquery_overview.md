@@ -4,14 +4,6 @@ jQuery is a JavaScript library. What this means for us is that it allows every b
 JQuery also converts what would have been a long block of code into just a few lines. As a developer, you should always practice the DRY method (Don't Repeat Yourself) which a group of developers discovered when they wrote the same lines of code over and over again (and it was a good amount of code too!). So, why not cut down many lines of code by making a library, and also by simplifying it for everyone? It sounds like a great idea!
 
 # Overview of basic jQuery functions and $(this)
-
-To get started with jQuery, go to [Microsoft's jQuery Releases on the CDN](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview#jQuery_Releases_on_the_CDN_0) and copy the link from there. This is the address we will tell our browser to import the library from. Next, in the `<head>` portion of your HTML document, include the link you just copied:
-
-```<script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js"></script>```
-
-Notice that what we are doing is adding a 'source' attribute to our JavaScript. We are effectively telling our page: "take all the code hosted at this URL and allow me to use it on this page."
-
-There is more than one way to add JQuery to your project. Some developers put their jQuery codes in the head like this:
 ```
 <head>
 <script>

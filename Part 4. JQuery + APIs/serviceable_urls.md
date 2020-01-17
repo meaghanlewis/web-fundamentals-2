@@ -2,7 +2,7 @@
 Any URL on the Internet can be used to make our websites better. Remember that URLs are just a human-friendly way to identify the location of the computer that holds the data we're looking for. The data we found can be a few different things, either an HTML page, an image, a video, JavaScript libraries or JSON (more on that later).
 
 ### Pages
-Some URLs lead you to a page. For example, if you navigate to  https://www.codingdojo.com your browser will render the landing page of Coding Dojo. You navigated to a URL and that URL rendered HTML, CSS, and JavaScript as its response. The browser interprets the HTML, CSS, and JavaScript to display a complete page.
+Some URLs lead you to a page. For example, if you navigate to  https://www.microsoft.com your browser will render the landing page of MIcrosoft. You navigated to a URL and that URL rendered HTML, CSS, and JavaScript as its response. The browser interprets the HTML, CSS, and JavaScript to display a complete page.
 
 ### Images
 Some URLs only hold an image. For example, if you navigate to (please copy and paste the link, hotlinking has been prohibited by this API):
