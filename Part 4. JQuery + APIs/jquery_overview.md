@@ -3,7 +3,7 @@ jQuery is a JavaScript library. What this means for us is that it allows every b
 
 JQuery also converts what would have been a long block of code into just a few lines. As a developer, you should always practice the DRY method (Don't Repeat Yourself) which a group of developers discovered when they wrote the same lines of code over and over again (and it was a good amount of code too!). So, why not cut down many lines of code by making a library, and also by simplifying it for everyone? It sounds like a great idea!
 
-# Overview of basic jQuery functions and $(this)
+# Overview of basic jQuery functions
 ```
 <head>
 <script>

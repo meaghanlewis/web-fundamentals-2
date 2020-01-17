@@ -2,9 +2,13 @@
 ## Objectives:
 * Get comfortable with basic for loops, if/else statements, and functions.
 * Get comfortable building basic algorithms in preparation for the Python track
-* Do these on paper with your neighbor! Or, goto your instructor to get paired up.
+* Try to do these on paper with your neighbor! Or, goto your instructor to get paired up.
 
-## Write functions for the following Algorithms:
+Use JSBin to see how to execute each one of these functions. Remove the comment marks (Remove `*/`) at the end of each function to run them in JSBin.
+#### [Click here to got JSBin.](https://jsbin.com/casegoy/edit?js,console)
+
+
+##  Practice writing functions for the following Algorithms:
 1. Get 1 to 255 - Write a function that returns an array with all the numbers from 1 to 255.
 2. Get even 1000 - Write a function that would get the sum of all the even numbers from 1 to 1000.  You may use a modulus operator for this exercise.
 3. Sum odd 5000 - Write a function that returns the sum of all the odd numbers from 1 to 5000. (e.g. 1+3+5+...+4997+4999).

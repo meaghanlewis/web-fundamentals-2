@@ -1,7 +1,7 @@
 # Part 4. JQuery + APIs
 
 1. [Start Here: jQuery Overview](./jquery_overview.md)
-2. [Getters and Setters](./getters_setters.md)
+2. [Getting Started with jQuery](./getting_started_jquery.md)
 3. [Learn these Tags](./learn_these_tags.md)
 4. [$(this)](./this.md)
 5. [Activity: Debugging jQuery](./debugging_jquery.md)
