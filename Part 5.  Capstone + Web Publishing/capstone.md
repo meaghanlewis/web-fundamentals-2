@@ -25,4 +25,6 @@ How do you know which Pokemon was clicked? Maybe we can give each Pokemon a uniq
 ```
 So that when the image is clicked, we get its id and add it to the end of this URL: "http://pokeapi.co/api/v2/pokemon/" then we make the ajax request with that URL that we constructed.
 
+Struggle with finding a solution for at least 30 minutes. Work with others in the workshop. If can't figure it out, then try implementing this code in your browser. Re-type it instead of just cutting and pasting so that you get familiar with every line. [Here is a working example.](https://codepen.io/dannyooooo/pen/229e50320ec54d6b8e2f845fa07672ba)
+
 #### NEXT: [Deploy your pokedex to the web](./deploy.md)
